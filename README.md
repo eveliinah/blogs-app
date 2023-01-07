@@ -9,6 +9,7 @@ Password: password <br>
 Sign in, list your favourite blogs, add likes and comments!
 
 - React
+- Node
 - Express
 - Redux
 - Axios
