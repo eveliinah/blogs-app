@@ -6,6 +6,8 @@ Test credentials: <br>
 Username: Test <br>
 Password: password <br>
 
+Sign in, list your favourite blogs, add likes and comments!
+
 - React
 - Express
 - Redux
