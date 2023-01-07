@@ -12,6 +12,7 @@ Sign in, list your favourite blogs, add likes and comments!
 - Express
 - Redux
 - Axios
+- MongoDB
 - Bcrypt
 - Cypress
 - Jest
