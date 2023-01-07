@@ -1,0 +1,7 @@
+POST http://localhost:3003/api/blogs/6371528abf699f6d8725d69a/comments
+Content-Type: application/json
+
+{
+   "content": "tere maija",
+   "blog": "6371528abf699f6d8725d69a"
+}

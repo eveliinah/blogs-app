@@ -1,0 +1,10 @@
+.blog-link {
+  color: #000000;
+  text-decoration: none;
+  font-weight: 480;
+}
+
+.blog-link:hover {
+  text-decoration: underline;
+  color: #2a2c30;
+}
