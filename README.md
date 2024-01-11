@@ -13,4 +13,8 @@ Used technologies:
 - Nodemon
 
 
+App running here: https://blogit.fly.dev/
 
+Try it out:
+username: test
+password: TestMe
