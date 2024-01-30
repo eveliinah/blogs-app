@@ -12,12 +12,12 @@ Used technologies:
 - Jest
 - Nodemon
 
-
-App running here: https://blogit.fly.dev/
+Under construction...Since Fly.io changed their billing.<br><br>
+~~App running here: https://blogit.fly.dev/~~
 <br>
 
-username: test<br>
-password: TestMe
+~~username: test<br>~~
+~~password: TestMe~~
 <br>
 <br>
 You can add new blogs, give likes and comments to other's blogs, and see how many blogs the users have created. You can delete your own blogs.
